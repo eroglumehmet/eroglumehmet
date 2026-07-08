@@ -24,4 +24,4 @@ systems, concurrency, and quantitative/numerical computing.
 ### Skills
 `C` · `C++` · `Python` — POSIX & sockets · concurrency · numerical computing · performance optimization
 
-📫 mehmeteroglu2333@gmail.com
+📫 mehmeteroglu1339@gmail.com
